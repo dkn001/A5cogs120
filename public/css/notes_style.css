@@ -1,0 +1,7 @@
+body {
+	font-family: Arial;
+}
+
+p, h1, button {
+	padding: 25px;
+}

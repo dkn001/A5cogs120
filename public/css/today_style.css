@@ -1,0 +1,41 @@
+body {
+	font-family: Arial;
+}
+
+h1 {
+	padding: 25px;
+}
+
+.navbar {
+	height: 80px;
+	width: 100%;
+	box-shadow: 0px 0px 8px 2px #000000;
+}
+.navbar ul {
+	float: center;
+	margin-right: 20px;
+}
+.navbar ul li {
+	list-style: none;
+	margin: 0 8px;
+	display: inline-block;
+	line-height: 80px;
+}
+
+.center {
+	text-align: center;
+}
+
+.buttons button {
+	display: block;
+	width: 50%;
+	border: none;
+	background-color: #ebf0ff;
+	border: 1px solid grey;
+	border-radius: 20px;
+	padding: 14px 28px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 24px;
+	margin: auto;
+}
